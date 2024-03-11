@@ -2,7 +2,7 @@
 
 # Olá ,eu sou o João ✌️
 
-## Desenvolvedor FrontEnd / FrontEnd Developer
+<p align="center"> Desenvolvedor FrontEnd / FrontEnd Developer </p>
 
 [![B](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-marcos-525564226/)
 [![B](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/m7_joao/?igshid=YmMyMTA2M2Y%3D/)
@@ -19,8 +19,6 @@
  <img align="center" alt="React" src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white">
  <img align="center" alt="typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
 </div>
-
-<div></div>
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Joaommsp&theme=blue-green)
 
