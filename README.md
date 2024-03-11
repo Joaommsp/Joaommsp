@@ -20,6 +20,8 @@
  <img align="center" alt="typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
 </div>
 
+<div></div>
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Joaommsp&theme=blue-green)
 
 ## Contato:
