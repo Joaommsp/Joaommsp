@@ -1,7 +1,5 @@
 ### Olá ,eu sou o João ✌️
 
-![](https://ibb.co/C5LVWTn)
-
 [![B](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-marcos-525564226/)
 [![B](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/m7_joao/?igshid=YmMyMTA2M2Y%3D/)
 [![B](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:jmmsp2003@hotmail.com)
