@@ -22,6 +22,11 @@
  <img align="center" alt="spring" src="https://img.shields.io/badge/-Spring-brightgreen?style=for-the-badge&logo=spring&logoColor=white">
 </div>
 
+[![VS Code](https://img.shields.io/badge/-VS_Code-blue?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
+[![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ_IDEA-red?style=for-the-badge&logo=intellij-idea&logoColor=white)](https://www.jetbrains.com/idea/)
+[![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ_IDEA-red?style=for-the-badge&logo=intellij-idea&logoColor=white)](https://www.jetbrains.com/idea/)
+
+
 ###
 
 ![João GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Joaommsp&theme=blue-green)
