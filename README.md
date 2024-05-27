@@ -16,7 +16,7 @@
 
 <br/>
 <div align="center">
-  <img height="200" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3MxcWZwNGpsc2NnMGRrZ3RibTk4NGc4MXJuNXlpMWFlZTM4cnZtdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT9Igxo2FyewOAnnm8/giphy.gif"  />
+  <img height="400" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3MxcWZwNGpsc2NnMGRrZ3RibTk4NGc4MXJuNXlpMWFlZTM4cnZtdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT9Igxo2FyewOAnnm8/giphy.gif"  />
 </div>
 <br/>
 
@@ -65,7 +65,7 @@
 
 ### 🔝 Top Contributed Repo
 <div align="center">
- ![](https://github-contributor-stats.vercel.app/api?username=Joaommsp&limit=5&theme=dark&combine_all_yearly_contributions=true)
+   <img src="https://github-contributor-stats.vercel.app/api?username=Joaommsp&limit=5&theme=dark&combine_all_yearly_contributions=true" height="180" alt="Top Contributed Repo" /> <br>
 </div>
 
 ### 😂 Random Dev Meme
