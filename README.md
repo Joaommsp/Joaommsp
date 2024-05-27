@@ -14,9 +14,11 @@
   </a>
 </div>
 
+<br/>
 <div align="center">
   <img height="200" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3MxcWZwNGpsc2NnMGRrZ3RibTk4NGc4MXJuNXlpMWFlZTM4cnZtdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT9Igxo2FyewOAnnm8/giphy.gif"  />
 </div>
+<br/>
 
 # 💻 Tech Stack:
 <div align="center">
@@ -58,7 +60,7 @@
 
 ### ✍️ Random Dev Quote
 <div align="center">
-  ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" height="180" alt="Random Dev Quote" /> <br>
 </div>
 
 ### 🔝 Top Contributed Repo
