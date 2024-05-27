@@ -58,7 +58,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Joaommsp&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gotham&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-### ✍️ Random Dev Quote
+### ✍️ Dev Quote
 <div align="center">
    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" height="180" alt="Random Dev Quote" /> <br>
 </div>
@@ -68,7 +68,7 @@
    <img src="https://github-contributor-stats.vercel.app/api?username=Joaommsp&limit=5&theme=dark&combine_all_yearly_contributions=true" height="250" alt="Top Contributed Repo" /> <br>
 </div>
 
-### 😂 Random Dev Meme
+### 😂 Dev Meme
 <div align="center">
   <img src='https://memer-new.vercel.app/' style="height: 400px;"/>
 </div>
