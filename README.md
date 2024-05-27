@@ -65,7 +65,7 @@
 
 ### 🔝 Top Contributed Repo
 <div align="center">
-   <img src="https://github-contributor-stats.vercel.app/api?username=Joaommsp&limit=5&theme=dark&combine_all_yearly_contributions=true" height="180" alt="Top Contributed Repo" /> <br>
+   <img src="https://github-contributor-stats.vercel.app/api?username=Joaommsp&limit=5&theme=dark&combine_all_yearly_contributions=true" height="250" alt="Top Contributed Repo" /> <br>
 </div>
 
 ### 😂 Random Dev Meme
