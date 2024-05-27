@@ -1,6 +1,5 @@
 # 💫 About Me:
-👋Hi ! My name is João Marcos and i'm a FrontEnd developer
-
+<h2 align="center">Hi 👋! My name is João Marcos and I'm a FrontEnd Developer from Brazil</h2>
 
 ## 🌐 Socials:
 <div align="center">
@@ -13,6 +12,10 @@
   <a href="mailto:jmmsp2003@hotmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="52" height="40" alt="microsoft-outlook logo"  />
   </a>
+</div>
+
+<div align="center">
+  <img height="200" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3MxcWZwNGpsc2NnMGRrZ3RibTk4NGc4MXJuNXlpMWFlZTM4cnZtdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT9Igxo2FyewOAnnm8/giphy.gif"  />
 </div>
 
 # 💻 Tech Stack:
@@ -47,20 +50,25 @@
 </div>
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Joaommsp&theme=gotham&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Joaommsp&theme=gotham&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Joaommsp&theme=gotham&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Joaommsp&theme=discord&no-frame=false&no-bg=false&margin-w=4)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Joaommsp&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gotham&locale=en&hide_border=false" height="199" alt="stats graph" /> <br>
+  <img src="https://streak-stats.demolab.com?user=Joaommsp&locale=en&mode=daily&theme=gotham&hide_border=false&border_radius=5&date_format=j%20M%5B%20Y%5D" height="180" alt="streak graph" /> <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Joaommsp&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gotham&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+<div align="center">
+  ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+</div>
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Joaommsp&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<div align="center">
+ ![](https://github-contributor-stats.vercel.app/api?username=Joaommsp&limit=5&theme=dark&combine_all_yearly_contributions=true)
+</div>
 
 ### 😂 Random Dev Meme
-<img src='https://memer-new.vercel.app/' style="height: 400px;"/>
+<div align="center">
+  <img src='https://memer-new.vercel.app/' style="height: 400px;"/>
+</div>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
