@@ -35,7 +35,7 @@
 <br/>
 
 <div align="center">
-  <img height="200" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3MxcWZwNGpsc2NnMGRrZ3RibTk4NGc4MXJuNXlpMWFlZTM4cnZtdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT9Igxo2FyewOAnnm8/giphy.gif"  />
+  <img height="300" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3MxcWZwNGpsc2NnMGRrZ3RibTk4NGc4MXJuNXlpMWFlZTM4cnZtdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT9Igxo2FyewOAnnm8/giphy.gif"  />
 </div>
 
 <br/>
@@ -46,12 +46,6 @@
   <img src="https://streak-stats.demolab.com?user=Joaommsp&locale=en&mode=daily&theme=gotham&hide_border=false&border_radius=5&date_format=j%20M%5B%20Y%5D" height="180" alt="streak graph" /> <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Joaommsp&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gotham&hide_border=false" height="150" alt="languages graph"  />
 </div>
-
-<br/>
-<div align="center">
-  <img height="400" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3MxcWZwNGpsc2NnMGRrZ3RibTk4NGc4MXJuNXlpMWFlZTM4cnZtdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT9Igxo2FyewOAnnm8/giphy.gif"  />
-</div>
-<br/>
 
 ### ✍️ Dev Quote
 <div align="center">
