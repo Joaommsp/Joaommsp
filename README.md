@@ -86,10 +86,9 @@ min-width="74px" max-width="74px" width="74px" align="left" style="border-radius
  6° Período
 </p>
 
-<img src="https://www.senac.br/images/senac_logo_branco.png
+<img src="https://colmeia.am.br/wp-content/uploads/2016/10/Est%C3%A1-aberta-as-inscri%C3%A7%C3%B5es-para-a-Faculdade-Senac-Porto-Uni%C3%A3o-04.10.2016.jpg
 " alt="Senac Logo" 
 min-width="74px" max-width="74px" width="74px" align="left" style="border-radius: 5px; margin-right: 10px;">
-
 
 <p align="left"> 
  <strong> Aprendizagem em serviços Administrativos</strong>
