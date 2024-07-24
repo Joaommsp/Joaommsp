@@ -77,26 +77,33 @@
 
 <p align="left"><strong>Formação Acadêmica</strong></p>
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/c/c5/UniRios.jpg" alt="Unirios Logo" 
-min-width="74px" max-width="74px" width="74px" align="left" style="border-radius: 5px; margin-right: 10px;">
+<div>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c5/UniRios.jpg" alt="Unirios Logo"
+  min-width="74px" max-width="74px" width="74px" align="left" style="border-radius: 5px; margin-right: 10px;">
+  <br/>
+ 
+  **Bacharelado em Sistemas de Informação** \
+  [**UNIRIOS**](https://www.ba.senac.br/) • Centro Universitário do Rio São Francisco • 6° Período
+  <br/>
+  
+  
+  <img src="https://pbs.twimg.com/profile_images/1615411890636689408/vMPL28LQ_400x400.jpg" alt="Unirios Logo"
+  min-width="74px" max-width="74px" width="74px" align="left" style="border-radius: 5px; margin-right: 10px;">
 
-**Bacharelado em Sistemas de Informação** \
-[**UNIRIOS**](https://www.ba.senac.br/) • 6° Período
-<br/>
+  **Aprendizagem em serviços Administrativos** \
+  [**Senac BA**](https://www.ba.senac.br/) • Senac Bahia • 1000 horas
+  <br/>
+    <br/>
+  
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKw5JRBqrwiDIDd3ZUlG-Q6vqVLBTdOh6w-A&s" alt="Unirios Logo"
+  min-width="74px" max-width="74px" width="74px" align="left" style="border-radius: 5px; margin-right: 10px;">
+ 
 
-<img src="https://pbs.twimg.com/profile_images/1615411890636689408/vMPL28LQ_400x400.jpg" alt="Unirios Logo" 
-min-width="74px" max-width="74px" width="74px" align="left" style="border-radius: 5px; margin-right: 10px;">
 
-**Aprendizagem em serviços Administrativos** \
-[**Senac BA**](https://www.ba.senac.br/) • 1000h
-<br/>
-
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKw5JRBqrwiDIDd3ZUlG-Q6vqVLBTdOh6w-A&s" alt="Unirios Logo" 
-min-width="74px" max-width="74px" width="74px" align="left" style="border-radius: 5px; margin-right: 10px;">
-
-**Formação Frontend** \
-[**Dio.me**](https://www.dio.me/users/jmmsp2003/) \
-Linguagens & Tecnologias: `Javascript`, `React`, `Typescript`, `Angular`, `Java` ,`HTML` ,`CSS`, `Bootstrap`, `Figma`, `Git`,`Github`
+  **Formação Frontend** \
+  [**Dio.me**](https://www.dio.me/users/jmmsp2003/) \
+  Linguagens & Tecnologias: `Javascript`, `React`, `Typescript`, `Angular`, `Java` ,`HTML` ,`CSS`, `Bootstrap`, `Figma`, `Git`,`Github`
+</div>
 
 #
 
