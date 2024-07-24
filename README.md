@@ -4,7 +4,7 @@
 
 <p align="left"><strong>Hi 👋! My name is João Marcos and I'm a FrontEnd Developer and UX/UI Designer from Brazil.</strong></p>
 
-<img src="https://i.ibb.co/st4VMTZ/Design-sem-nome-1.png" alt="ilustração de um computador" min-width="204px" max-width="204px" width="204px" align="right">
+<img src="https://i.ibb.co/st4VMTZ/Design-sem-nome-1.png" alt="ilustração de um computador" min-width="156px" max-width="156px" width="156px" align="right">
 
 <p align="left"> 
  <strong> Meu nome é João Marcos , seja bem vindo ao meu Github. </strong>
@@ -69,8 +69,8 @@
   <p><strong>Entre em contato comigo</strong></p>
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/jo%C3%A3o-marcos-melo/" ><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="42" alt="linkedin logo" style="display: inline-block;" /></a>
-  <a href=""><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="42" alt="instagram logo" style="display: inline-block;" /></a>
+  <a href="https://www.linkedin.com/in/jo%C3%A3o-marcos-melo/" ><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="32" alt="linkedin logo" style="display: inline-block;" /></a>
+  <a href=""><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="32" alt="instagram logo" style="display: inline-block;" /></a>
 </div>
 
 #
@@ -80,19 +80,15 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/c/c5/UniRios.jpg" alt="Unirios Logo" 
 min-width="74px" max-width="74px" width="74px" align="left" style="border-radius: 5px; margin-right: 10px;">
 
-<p align="left"> 
- <strong> Sistemas de Informação </strong> <br/>
- Centro Universitário do Rio São Francisco <br/>
- 6° Período
-</p>
+**Bacharelado em Sistemas de Informação** \
+[**UNIRIOS**](https://www.ba.senac.br/) • 6° Período
+<br/>
 
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/c/c5/UniRios.jpg" alt="Unirios Logo" 
+<img src="https://pbs.twimg.com/profile_images/1615411890636689408/vMPL28LQ_400x400.jpg" alt="Unirios Logo" 
 min-width="74px" max-width="74px" width="74px" align="left" style="border-radius: 5px; margin-right: 10px;">
 
-<p align="left"> 
- <strong> Aprendizagem em serviços Administrativos</strong>
-</p>
+**Aprendizagem em serviços Administrativos** \
+[**Senac BA**](https://www.ba.senac.br/) • 1000h
 <br/>
 
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKw5JRBqrwiDIDd3ZUlG-Q6vqVLBTdOh6w-A&s" alt="Unirios Logo" 
