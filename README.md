@@ -63,6 +63,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40" alt="windows8" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=vite" height="40" alt="vite logo"  />
+  <img width="12" />
+  <img src="https://raw.githubusercontent.com/Joaommsp/skill-icons/main/icons/Notion-Dark.svg" height="40" alt="Notion logo"
 </div>
 
 ###
