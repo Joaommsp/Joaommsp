@@ -1,8 +1,10 @@
-<div align="center" ><img width="100%" height="100%" style="object-fit: cover;" src="https://i.pinimg.com/originals/08/33/4c/08334ce44a530ce81ba2ff9e5d29064b.gif" alt="" /></div>
-
 <h2 align="left" > 
   <strong> Hello, World!✌🌎 </strong>
 </h2>
+
+<div align="center" ><img width="100%" height="100%" style="object-fit: cover;" src="./my-gif-banner.gif" alt="" /></div>
+
+</br>
 
 <p align="left"><strong>Hi 👋! My name is João Marcos and I'm a FrontEnd Developer & UX/UI Designer from Brazil.</strong></p>
 
