@@ -1,3 +1,5 @@
+<div align="center" ><img width="100%" height="156px" style="object-fit: cover;" src="https://i.pinimg.com/originals/08/33/4c/08334ce44a530ce81ba2ff9e5d29064b.gif" alt="" /></div>
+
 <h2 align="left" > 
   <strong> Hello, World!✌🌎 </strong>
 </h2>
@@ -11,7 +13,7 @@
 </p>
 
 <ul align="left" >
-    <li>🛡 Sou da Bahia</li>
+    <li>🚩 Bahia</li>
     <li>⚽ Futebol, games e carros</li>
     <li>📚 Estudante de Sistemas de Informação </li>
     <li>🖥 Desenvolvedor <strong>Frontend e UX/UI Designer</strong></li>
