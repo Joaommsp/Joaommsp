@@ -1,4 +1,4 @@
-<div align="center" ><img width="100%" height="156px" style="object-fit: cover;" src="https://i.pinimg.com/originals/08/33/4c/08334ce44a530ce81ba2ff9e5d29064b.gif" alt="" /></div>
+<div align="center" ><img width="100%" height="100%" style="object-fit: cover;" src="https://i.pinimg.com/originals/08/33/4c/08334ce44a530ce81ba2ff9e5d29064b.gif" alt="" /></div>
 
 <h2 align="left" > 
   <strong> Hello, World!✌🌎 </strong>
