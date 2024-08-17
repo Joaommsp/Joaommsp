@@ -76,6 +76,16 @@
 
 #
 
+<p><strong>Acompanhe minhas criações </strong></p>
+
+<div align="left">
+<a href="https://www.behance.net/joaomarcos10oficial" ><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/behance/behance-original.svg" height="40" alt="behance logo"  /></a>
+<a href="https://www.figma.com/@joaomarcos19" >  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  /></a>
+</div>
+
+> Clique nos ícones para acessar , utilizo Behance e Figma para publicar meus trabalhos e projetos.
+
+
   <p><strong>Entre em contato comigo</strong></p>
 
 <div align="left">
