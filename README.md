@@ -83,6 +83,8 @@
 <a href="https://www.figma.com/@joaomarcos19" >  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  /></a>
 </div>
 
+<br/>
+
 > Clique nos ícones para acessar , utilizo Behance e Figma para publicar meus trabalhos e projetos.
 
 
