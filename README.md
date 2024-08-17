@@ -87,6 +87,17 @@
 
 > Clique nos ícones para acessar , utilizo Behance e Figma para publicar meus trabalhos e projetos.
 
+<br/>
+
+<a href="https://www.behance.net/joaomarcos10oficial" >
+<img src="./profile_behance.png" alt="..." width="100%" height="100%" />
+</a>
+
+<a href="https://www.figma.com/@joaomarcos19" >
+<img src="./profile_figma.png" alt="..." width="100%" height="100%" />
+</a>
+
+#
 
   <p><strong>Entre em contato comigo</strong></p>
 
@@ -139,6 +150,6 @@
 
 #
 
-<div align="center">
+<div align="left">
    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" height="180" alt="Random Dev Quote" /> <br>
 </div>
