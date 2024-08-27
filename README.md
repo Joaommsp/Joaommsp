@@ -8,7 +8,7 @@
 
 <p align="left"><strong>Hi 👋! My name is João Marcos and I'm a FrontEnd Developer & UX/UI Designer from Brazil.</strong></p>
 
-<img src="https://i.ibb.co/st4VMTZ/Design-sem-nome-1.png" alt="ilustração de um computador" min-width="156px" max-width="156px" width="156px" align="right">
+<img src="./my-logo.png" alt="minha logo" min-width="156px" max-width="156px" width="156px" align="right">
 
 <p align="left"> 
  <strong> Meu nome é João Marcos , seja bem vindo ao meu Github. </strong>
