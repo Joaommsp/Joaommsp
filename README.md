@@ -2,7 +2,7 @@
   <strong> Hello, World!✌🌎 </strong>
 </h2>
 
-<div align="center" ><img width="100%" height="100%" style="object-fit: cover;" src="./my-gif-banner.gif" alt="" /></div>
+<div align="center" ><img width="100%" height="100%" style="object-fit: cover;" src="./live-banner-02.gif" alt="" /></div>
 
 </br>
 
