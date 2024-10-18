@@ -21,6 +21,8 @@
     <li>🖥 Desenvolvedor <strong>Frontend e UX/UI Designer</strong></li>
 </ul>
 
+<br/>
+
 #
 
 <p><strong>Minhas Tecnologias</strong></p>
