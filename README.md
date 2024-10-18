@@ -32,6 +32,8 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="42" alt="react logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="42" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="42" alt="css3 logo"  />
@@ -56,12 +58,12 @@
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="42" alt="vscode logo"  />
   <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="42" alt="intellij logo"  />
-     <img width="12" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="42" alt="figma logo"  />
-        <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="42" alt="intellij logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="42" alt="figma logo"  />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=ps" height="40" alt="adobephotoshop logo"  />
-   <img width="12" />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=vercel" height="40" alt="vercel logo"  />
@@ -131,9 +133,13 @@
 <p><strong>Meu Github</strong></p>
 
 <div align="left">
-  <img src="https://streak-stats.demolab.com?user=Joaommsp&locale=en&mode=daily&theme=radical&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api?username=Joaommsp&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Joaommsp&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false&order=2" height="150" alt="languages graph"  />
+<img src="https://streak-stats.demolab.com?user=Joaommsp&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+<img src="https://github-readme-stats.vercel.app/api?username=Joaommsp&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Joaommsp&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+<div align="left">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Joaommsp&radius=16&theme=dark&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
 #
