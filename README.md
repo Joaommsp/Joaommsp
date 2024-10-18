@@ -21,10 +21,8 @@
     <li>🖥 Desenvolvedor <strong>Frontend e UX/UI Designer</strong></li>
 </ul>
 
-<br/>
-
 #
-
+<br/>
 <div align="left">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Joaommsp&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
