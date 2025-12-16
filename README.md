@@ -117,10 +117,6 @@
   [**UNIRIOS**](https://www.ba.senac.br/) • Centro Universitário do Rio São Francisco • 8° Período
   <br/>
   
-  
-  <img src="https://pbs.twimg.com/profile_images/1615411890636689408/vMPL28LQ_400x400.jpg" alt="Unirios Logo"
-  min-width="74px" max-width="74px" width="74px" align="left" style="border-radius: 5px; margin-right: 10px;">
-
   **Aprendizagem em serviços Administrativos** \
   [**Senac BA**](https://www.ba.senac.br/) • Senac Bahia • 1000 horas
   <br/>
