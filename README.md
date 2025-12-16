@@ -114,7 +114,7 @@
   <br/>
  
   **Bacharelado em Sistemas de Informação** \
-  [**UNIRIOS**](https://www.ba.senac.br/) • Centro Universitário do Rio São Francisco • 6° Período
+  [**UNIRIOS**](https://www.ba.senac.br/) • Centro Universitário do Rio São Francisco • 8° Período
   <br/>
   
   
