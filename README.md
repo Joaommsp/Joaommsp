@@ -2,12 +2,17 @@
 
 # João Marcos
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./logo-claro.png" />
+  <img src="./logo-escuro.png" width="110" align="right" alt="Logo de João Marcos" />
+</picture>
+
 **Desenvolvedor Frontend & Designer UI/UX** — Paulo Afonso, Bahia 🇧🇷
 
 Construo interfaces em React, Next.js e TypeScript, e desenho o que vem antes delas.
 Bacharel em Sistemas de Informação pela UNIRIOS (2025).
 
-[**joaomarcos.dev**](https://joaomarcos.dev) · [LinkedIn](https://www.linkedin.com/in/joaomarcos10oficial/) · [Behance](https://www.behance.net/joaomarcos10oficial) · [Figma](https://www.figma.com/@joaomarcos19) · [Instagram](https://www.instagram.com/joao.mmsp/)
+[**Meu portfólio**](https://softwaredeveloper-jmmsp.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/joaomarcos10oficial/) · [Behance](https://www.behance.net/joaomarcos10oficial) · [Figma](https://www.figma.com/@joaomarcos19) · [Instagram](https://www.instagram.com/joao.mmsp/)
 
 ---
 
@@ -116,7 +121,7 @@ Bacharel em Sistemas de Informação pela UNIRIOS (2025).
 
 ## Entre em contato
 
-[![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-joaomarcos.dev-0f172a?style=for-the-badge)](https://joaomarcos.dev)
+[![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-0f172a?style=for-the-badge&logo=vercel&logoColor=white)](https://softwaredeveloper-jmmsp.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaomarcos10oficial/)
 [![Behance](https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/joaomarcos10oficial)
 [![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/@joaomarcos19)
