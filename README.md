@@ -1,148 +1,125 @@
-<h2 align="left" >
-  <strong> Hello, World!✌🌎 </strong>
-</h2>
+<img src="./banner.webp" width="100%" alt="João Marcos — Desenvolvedor Frontend e Designer UI/UX" />
 
-<div align="center" ><img width="100%" height="100%" style="object-fit: cover;" src="./my-gif-banner.gif" alt="" /></div>
+# João Marcos
 
-</br>
+**Desenvolvedor Frontend & Designer UI/UX** — Paulo Afonso, Bahia 🇧🇷
 
-<p align="left"><strong>Hi 👋! My name is João Marcos and I'm a FrontEnd Developer & UX/UI Designer from Brazil.</strong></p>
+Construo interfaces em React, Next.js e TypeScript, e desenho o que vem antes delas.
+Bacharel em Sistemas de Informação pela UNIRIOS (2025).
 
-<img src="./my-logo.png" alt="minha logo" min-width="156px" max-width="156px" width="156px" align="right">
+[**joaomarcos.dev**](https://joaomarcos.dev) · [LinkedIn](https://www.linkedin.com/in/joaomarcos10oficial/) · [Behance](https://www.behance.net/joaomarcos10oficial) · [Figma](https://www.figma.com/@joaomarcos19) · [Instagram](https://www.instagram.com/joao.mmsp/)
 
-<p align="left"> 
- <strong> Meu nome é João Marcos , seja bem vindo ao meu Github. </strong>
-</p>
+---
 
-<ul align="left" >
-    <li>🚩 Bahia</li>
-    <li>⚽ Futebol, games e carros</li>
-    <li>📚 Estudante de Sistemas de Informação </li>
-    <li>🖥 Desenvolvedor <strong>Frontend e UX/UI Designer</strong></li>
-</ul>
+## Minhas tecnologias
 
-<br/>
-
-#
-
-<p><strong>Minhas Tecnologias</strong></p>
+**Interface**
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="42" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="42" alt="React" title="React" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="42" alt="typescript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="Next.js" title="Next.js" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="42" alt="react logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="42" alt="TypeScript" title="TypeScript" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="42" alt="JavaScript" title="JavaScript" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="42" alt="html5 logo"  />
+  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" alt="Tailwind CSS" title="Tailwind CSS" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="42" alt="css3 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="42" alt="HTML5" title="HTML5" />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" alt="tailwindcss logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="42" alt="CSS3" title="CSS3" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="42" alt="java logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="42" alt="Bootstrap" title="Bootstrap" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="42" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="42" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="42" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="42" alt="mysql logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="42" alt="Angular" title="Angular" />
 </div>
 
-#
-<br/>
-<div align="left">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Joaommsp&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
-</div>
-
-#
-
-<p><strong>Ferramenta que utilizo</strong></p>
+**Servidor e dados**
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="42" alt="vscode logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="42" alt="Node.js" title="Node.js" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="42" alt="intellij logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="42" alt="NestJS" title="NestJS" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="42" alt="figma logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" height="42" alt="Prisma" title="Prisma" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ps" height="40" alt="adobephotoshop logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="42" alt="PostgreSQL" title="PostgreSQL" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="42" alt="MySQL" title="MySQL" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vercel" height="40" alt="vercel logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="42" alt="Firebase" title="Firebase" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40" alt="windows8" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vite" height="40" alt="vite logo"  />
-  <img width="12" />
-  <img src="https://raw.githubusercontent.com/Joaommsp/skill-icons/main/icons/Notion-Dark.svg" height="40" alt="Notion logo"
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="42" alt="Java" title="Java" />
 </div>
 
-###
-  </div>
-
-#
-
-<p><strong>Acompanhe minhas criações </strong></p>
+**Python e IA**
 
 <div align="left">
-<a href="https://www.behance.net/joaomarcos10oficial" ><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/behance/behance-original.svg" height="40" alt="behance logo"  /></a>
-<a href="https://www.figma.com/@joaomarcos19" >  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  /></a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="42" alt="Python" title="Python" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="42" alt="TensorFlow" title="TensorFlow" />
 </div>
 
-#
+---
 
-  <p><strong>Entre em contato comigo</strong></p>
+## Ferramentas que utilizo
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/jo%C3%A3o-marcos-melo/" ><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="32" alt="linkedin logo" style="display: inline-block;" /></a>
-  <a href="https://www.instagram.com/joao.mmsp/"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="32" alt="instagram logo" style="display: inline-block;" /></a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="42" alt="VS Code" title="VS Code" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="42" alt="IntelliJ IDEA" title="IntelliJ IDEA" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="42" alt="Figma" title="Figma" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=ps" height="40" alt="Photoshop" title="Photoshop" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="42" alt="Git" title="Git" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub" title="GitHub" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="42" alt="Docker" title="Docker" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vercel" height="40" alt="Vercel" title="Vercel" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vite" height="40" alt="Vite" title="Vite" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=notion" height="40" alt="Notion" title="Notion" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40" alt="Windows" title="Windows" />
 </div>
 
-#
+---
 
-<p align="left"><strong>Formação Acadêmica</strong></p>
-
-<div>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c5/UniRios.jpg" alt="Unirios Logo"
-  min-width="74px" max-width="74px" width="74px" align="left" style="border-radius: 5px; margin-right: 10px;">
-  <br/>
- 
-  **Bacharelado em Sistemas de Informação** \
-  [**UNIRIOS**](https://www.ba.senac.br/) • Centro Universitário do Rio São Francisco • 8° Período
-  <br/>
-  
-  **Aprendizagem em serviços Administrativos** \
-  [**Senac BA**](https://www.ba.senac.br/) • Senac Bahia • 1000 horas
-  <br/>
-    <br/>
-  
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKw5JRBqrwiDIDd3ZUlG-Q6vqVLBTdOh6w-A&s" alt="Unirios Logo"
-  min-width="74px" max-width="74px" width="74px" align="left" style="border-radius: 5px; margin-right: 10px;">
- 
-
-
-  **Formação Frontend** \
-  [**Dio.me**](https://www.dio.me/users/jmmsp2003/) \
-  Linguagens & Tecnologias: `Javascript`, `React`, `Typescript`, `Angular`, `Java` ,`HTML` ,`CSS`, `Bootstrap`, `Figma`, `Git`,`Github`
-</div>
-
-#
-
-<p><strong>Meu Github</strong></p>
+## Acompanhe minhas criações
 
 <div align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=Joaommsp&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Joaommsp&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <a href="https://www.behance.net/joaomarcos10oficial"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/behance/behance-original.svg" height="42" alt="Behance" title="Behance" /></a>
+  <img width="12" />
+  <a href="https://www.figma.com/@joaomarcos19"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="42" alt="Figma" title="Figma" /></a>
 </div>
 
-#
+---
 
-<div align="left">
-   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" height="180" alt="Random Dev Quote" /> <br>
-</div>
+## Formação
+
+**Bacharelado em Sistemas de Informação** — concluído em 2025
+[UNIRIOS](https://unirios.edu.br/) · Centro Universitário do Rio São Francisco
+
+**Formação Frontend**
+[DIO](https://www.dio.me/users/jmmsp2003) · JavaScript, React, TypeScript, Angular, Java, HTML, CSS, Bootstrap, Figma, Git
+
+**Aprendizagem em Serviços Administrativos** — 1000 horas
+[Senac Bahia](https://www.ba.senac.br/)
+
+---
+
+## Entre em contato
+
+[![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-joaomarcos.dev-0f172a?style=for-the-badge)](https://joaomarcos.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaomarcos10oficial/)
+[![Behance](https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/joaomarcos10oficial)
+[![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/@joaomarcos19)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/joao.mmsp/)
+
+Fora do editor: futebol, games e carros.
